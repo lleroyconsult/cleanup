@@ -1,5 +1,8 @@
 #!/bin/sh
+while true
+do
 
-echo toto
+    echo toto
+    sleep 10
 
-sleep 600
+done
